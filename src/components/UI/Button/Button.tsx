@@ -1,5 +1,4 @@
 import React from 'react'
-
 import { StyleOffset } from 'utils/types'
 
 import { StyledButton } from './Button.style'

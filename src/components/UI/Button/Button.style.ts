@@ -1,6 +1,5 @@
-import styled, { css } from 'styled-components'
-
 import { generateButton } from 'styles/themes/cssGenerators'
+import styled, { css } from 'styled-components'
 
 import { ButtonVariants, StyleOffsets } from './Button'
 

@@ -18,12 +18,7 @@ export default function FirstPost(): JSX.Element {
             </Head>
             <h1>First Post</h1>
             <TextComponent>Some custom text</TextComponent>
-            <img
-                src="/images/profile.jpg"
-                width={'100%'}
-                height={'auto'}
-                alt="Your Name"
-            />
+            <img src="/images/profile.jpg" height={'auto'} alt="Your Name" />
             {/* <Image
                 src="/images/profile.jpg"
                 layout={'intrinsic'}

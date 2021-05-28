@@ -1,7 +1,7 @@
 import type { AppProps /*, AppContext */ } from 'next/app'
 import { ThemeProvider } from 'styled-components'
 
-import { GlobalStyle, lightTheme } from '../styles'
+import { GlobalStyle, lightTheme } from 'styles'
 
 export default function App({ Component, pageProps }: AppProps): JSX.Element {
     return (
